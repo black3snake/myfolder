@@ -101,9 +101,11 @@ body {
     align-items: center;
 }
 
-.logo img {
-    vertical-align: center;
+span {
+    color: #5D3427;
+    border: 1px solid red;
 }
+
 .menu {
     margin-left: 250px;
 }
