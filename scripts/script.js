@@ -64,7 +64,7 @@ document.getElementById("order-action").onclick = () => {
         [product, name, phone].forEach(item => {
             item.value = "";
         });
-        alert("Спасибо за заказ! Мы скоро свяжемся с вами!")
+        alert("Спасибо за заказ! Мы скоро свяжемся с вами!!!")
     }
 }
 
